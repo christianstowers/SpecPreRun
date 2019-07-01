@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SpecPreRun</string>
+    <string name="gear_name">Gear Name</string>
+    <string name="gear_description">Gear Description</string>
+    <string name="order">order #</string>
+</resources>
